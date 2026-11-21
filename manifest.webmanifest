@@ -1,0 +1,19 @@
+{
+  "name": "VICE CITY NEWS",
+  "short_name": "VICE CITY",
+  "description": "L'actu GTA 6 en français : news, secrets, carte de Leonida, quiz et sondages.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14052b",
+  "theme_color": "#14052b",
+  "categories": ["news", "entertainment", "games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
